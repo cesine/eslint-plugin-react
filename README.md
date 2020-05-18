@@ -163,6 +163,7 @@ Enable the rules that you would like to use.
 * [react/jsx-curly-spacing](docs/rules/jsx-curly-spacing.md): Enforce or disallow spaces inside of curly braces in JSX attributes (fixable)
 * [react/jsx-equals-spacing](docs/rules/jsx-equals-spacing.md): Disallow or enforce spaces around equal signs in JSX attributes (fixable)
 * [react/jsx-filename-extension](docs/rules/jsx-filename-extension.md): Restrict file extensions that may contain JSX
+* [react/jsx-filename-extension-not-needed](docs/rules/jsx-filename-extension.md): Restrict file extensions that must contain JSX
 * [react/jsx-first-prop-new-line](docs/rules/jsx-first-prop-new-line.md): Ensure proper position of the first property in JSX (fixable)
 * [react/jsx-fragments](docs/rules/jsx-fragments.md): Enforce shorthand or standard form for React fragments (fixable)
 * [react/jsx-handler-names](docs/rules/jsx-handler-names.md): Enforce event handler naming conventions in JSX

@@ -24,6 +24,7 @@ const allRules = {
   'jsx-curly-newline': require('./lib/rules/jsx-curly-newline'),
   'jsx-equals-spacing': require('./lib/rules/jsx-equals-spacing'),
   'jsx-filename-extension': require('./lib/rules/jsx-filename-extension'),
+  'jsx-filename-extension-not-needed': require('./lib/rules/jsx-filename-extension-not-needed'),
   'jsx-first-prop-new-line': require('./lib/rules/jsx-first-prop-new-line'),
   'jsx-handler-names': require('./lib/rules/jsx-handler-names'),
   'jsx-indent': require('./lib/rules/jsx-indent'),
